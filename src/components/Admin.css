@@ -1,0 +1,33 @@
+.admin-container {
+  text-align: center;
+  margin-top: 40px;
+  background-image: url('../assets/mall.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.admin-container input {
+  margin-right: 10px;
+}
+
+.admin-container button {
+  padding: 8px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.admin-container button:hover {
+  background-color: #45a049;
+}
+
+.admin-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.admin-container li {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,16 @@
+.shop-container {
+  text-align: center;
+  margin-top: 40px;
+  background-image: url('../assets/mall.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.shop-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.shop-container li {
+  margin-bottom: 10px;
+}
